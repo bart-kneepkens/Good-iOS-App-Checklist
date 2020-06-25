@@ -5,11 +5,11 @@ An opinionated list of features that every good iOS app should have. (Apps to be
 - All user-facing text should be translated in the primary locales of the regions you intend to release to
 - All text should work in a locale's default layout direction, also supporting right-to-left layouts
 - If the app has clocks, they should respect the user's region's default clock format (12h or 24h clocks)
-- If the app has a calendar, they should respsect the user's iOS preferred calendar type
+- If the app has a calendar, they should respsect the user's iOS preferred calendar type (Gregorian, Japanese, Buddhist)
 
 ### 2. Accessibility
-- User-facing text should use dynamic fonts sizing. (percentage)
-- User-facing text should have proper accessibility labels set (if applicable)
+- User-facing text should use dynamic fonts sizing. See this [thread](https://twitter.com/steipete/status/1052589183225815040)
+- User-facing text should have proper accessibility labels / identifiers set. Users might be using your app in ways that you don't think of, so it's best to leave the opportunity open.
 
 ### 3. GDPR Compliant
 - If the app will be released in a EU state member country and has a sign-in, the app should comply to GDPR
