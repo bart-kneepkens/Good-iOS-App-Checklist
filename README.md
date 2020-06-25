@@ -1,4 +1,4 @@
-# Good-App-Checklist
+# Good iOS App Checklist
 An opinionated list of features that every good iOS app should have. (Apps to be published in the App Store, that is)
 
 ### 1. Localized for release regions
