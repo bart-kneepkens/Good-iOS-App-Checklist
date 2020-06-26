@@ -15,21 +15,20 @@ An opinionated list of features that every good iOS app should have. (Apps to be
 - If the app will be released in a EU state member country and has a sign-in, the app should comply to GDPR
 
 ### 4. Support platform-specific UX patterns
-- Swipe to go back (iOS)
-- Haptic feedback (iOS)
-- Date pickers
+- Swipe to go back
+- Haptic feedback
 
 ### 5. Support dark / low contrast modes
-User expect apps to respect the OS-wide dark mode. 
+Users expect apps to respect the OS-wide dark mode
 
 ### 6. Has a framerate of at least 60 fps
-Try to stay above 60fps throughout the runtime of the application. Anything lower may look sluggish.
+Try to stay above 60 fps throughout the runtime of the application. Anything lower may look sluggish.
 
 ### 7. Somewhat usable without internet connection
 Don't introduce banners or block the entire UI when there is no internet connection. Instead, implement caches or offline first so the user isn't restricted that much
 
 ### 8. Backwards compatibilty with persisted data
-On every app update, make sure that changes in the persisted data are handled correctly.
+On every app update, make sure that changes in the persisted data format are handled correctly
 
 ### 9. Non-interruptive user flows
-Alerts and popups should be used sparingly, as they require immediate user attention and a call to action.
+Alerts and popups should be used sparingly, as they require immediate user attention and a call to action
