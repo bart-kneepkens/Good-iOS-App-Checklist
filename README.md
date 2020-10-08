@@ -1,5 +1,6 @@
 # Good iOS App Checklist
-An opinionated list of features that every good iOS app should have. (Apps to be published in the App Store, that is)
+An opinionated list of features that every good iOS app should have (Apps to be published in the App Store, that is).
+This list is not meant to be exhaustive. It is merely meant as a reminder of features that are easily overlooked by product teams and enginers alike.
 
 ### 1. Localized for release regions
 - All user-facing text should be translated in the primary locales of the regions you intend to release to
