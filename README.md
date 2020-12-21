@@ -1,6 +1,6 @@
 # Good iOS App Checklist
-An opinionated list of features that every good iOS app should have (Apps to be published in the App Store, that is).
-This list is not meant to be exhaustive. It is merely meant as a reminder of features that are easily overlooked by product teams and enginers alike.
+An opinionated list of features that every good iOS app should have (apps to be published in the App Store, that is).
+This list is not meant to be exhaustive. It is merely meant as a reminder of features that are easily overlooked by product teams and engineers alike.
 
 ### 1. Localized for release regions
 - All user-facing text should be translated in the primary locales of the regions you intend to release to
@@ -21,7 +21,7 @@ This list is not meant to be exhaustive. It is merely meant as a reminder of fea
 - Swipe to go back
 - Haptic feedback
 - Tap the statusbar to scroll to the top of a list
-- Swipe down to refresh a list
+- Swipe down to refresh a list for dynamic content
 
 ### 5. Has a framerate of at least 60 fps
 Try to stay above 60 fps throughout the runtime of the application. Anything lower may look sluggish.
