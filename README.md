@@ -6,7 +6,7 @@ This list is not meant to be exhaustive. It is merely meant as a reminder of fea
 - All user-facing text should be translated in the primary locales of the regions you intend to release to
 - All text should work in a locale's default layout direction, also supporting right-to-left layouts
 - If the app has clocks, they should respect the user's region's default clock format (12h or 24h clocks)
-- If the app has a calendar, they should respsect the user's iOS preferred calendar type (Gregorian, Japanese, Buddhist)
+- If the app has a calendar, they should respect the user's iOS preferred calendar type (Gregorian, Japanese, Buddhist)
 
 ### 2. Accessibility
 - Support dark mode and high-contrast mode
