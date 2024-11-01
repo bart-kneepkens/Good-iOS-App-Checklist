@@ -10,7 +10,7 @@ This list is not meant to be exhaustive. It is merely meant as a reminder of fea
 
 ### 2. Accessibility
 - Support dark mode and high-contrast mode
-- User-facing text should use dynamic fonts sizing. See this [thread](https://twitter.com/steipete/status/1052589183225815040)
+- User-facing text should use dynamic font sizing. See this [thread](https://twitter.com/steipete/status/1052589183225815040)
 - User-facing text should have proper accessibility labels set
 - Verify that accessibility labels work properly using VoiceOver 
 
@@ -34,3 +34,6 @@ On every app update, make sure that changes in the persisted data format are han
 
 ### 8. Non-interruptive user flows
 Alerts and popups should be used sparingly, as they require immediate user attention and a call to action
+
+### 9. Overboard with onboarding
+Don't torture your first-time users with endless mandatory actions (tapping a 'close' button is also an action) before they can use your app. Ideally, don't require a sign in for features that don't need it
